@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-schlegel&label=Profile%20views&color=0e75b6&style=flat" alt="william-schlegel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=william-schlegel" alt="william-schlegel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/wsc_ironeec" target="blank"><img src="https://img.shields.io/twitter/follow/wsc_ironeec?logo=twitter&style=for-the-badge" alt="wsc_ironeec" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/wsc_ironeec" target="blank">
+    <img src="https://img.shields.io/twitter/follow/wsc_ironeec?logo=twitter&style=for-the-badge" alt="wsc_ironeec" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on [different SaaS application](app.aexdo.com)
 
